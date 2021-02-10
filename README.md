@@ -1,5 +1,9 @@
 # vue-http
 
+## VueJS
+## Axios 
+## Javascript
+
 ## Project setup
 ```
 npm install
